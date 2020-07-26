@@ -1,0 +1,7 @@
+Name	   Size
+--------------------
+james  	   5
+janie  	   5
+andrew 	   7
+alex   	   4
+chris  	   3
